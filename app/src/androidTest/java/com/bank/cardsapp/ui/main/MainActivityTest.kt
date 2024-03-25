@@ -1,4 +1,4 @@
-package com.westpac.cardsapp.ui.main
+package com.bank.cardsapp.ui.main
 
 
 import android.R
