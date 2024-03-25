@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Credit Card</string>
+
+    <string name="strRetry">Retry</string>
+    <string name="strFetchingData">Fetching data ...</string>
+    <string name="strOriginalLanguage">Original Language</string>
+</resources>
