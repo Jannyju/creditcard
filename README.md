@@ -21,7 +21,7 @@ Kotlin Coroutines: For asynchronous programming.<br>
 
 #### Testing
 
-Unit Tests: Run unit tests through Android Studio to verify the logic of the application.
+Unit Tests: Run unit tests through Android Studio to verify the logic of the application.<br>
 Espresso Tests: Integrated UI tests are provided for critical user flows.
 
 #### Image:
