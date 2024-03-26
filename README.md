@@ -1,4 +1,4 @@
-<span style="font-size:150px; font-weight:bold;">Credit Card</span>
+# Credit Card Application
 
 #### Features
 
@@ -24,12 +24,13 @@ Kotlin Coroutines: For asynchronous programming.<br>
 Unit Tests: Run unit tests through Android Studio to verify the logic of the application.<br>
 Espresso Tests: Integrated UI tests are provided for critical user flows.
 
-#### Image:
+#### Image - Normal Case
 <div>
   <img src="https://github.com/Jannyju/creditcard/assets/59474513/fa9dd21c-5f21-4dd0-8bce-96f672594959" width="200"height="400">  
   <img src="https://github.com/Jannyju/creditcard/assets/59474513/72645802-0ecb-427b-ab21-18c0b4bb8558" width= "200"height="400">  
   <img src="https://github.com/Jannyju/creditcard/assets/59474513/efcd3235-2409-4ce0-96f4-4848240a966d" width="200"height="400">
 </div>
+
 
 #### Image - Error Handling:
 
